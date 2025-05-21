@@ -8,8 +8,10 @@
  * @version : 1.0.0
  * @License: GNU/LGPL _ Open Source & Free : [all functions]
  */
+
 namespace AriaJdf;
-class Aria_jdf
+
+class Aria_jdate
 {
 
   public function jdate($format, $timestamp = '', $none = '', $time_zone = 'Asia/Tehran', $tr_num = 'fa')
