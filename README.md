@@ -6,13 +6,15 @@ This library converts Gregorian dates to solar dates. The Aria jdf library is ac
 
 use :
 
-"require": {
-        "dev-sinam/aria-jdf": "dev-main"
-}
+    "require": {
+            "dev-sinam/aria-jdf": "dev-main" 
+                }
+
+repositories:
 
     "repositories": [
         {
             "type": "vcs",
             "url": "https://github.com/dev-sinam/aria-jdf"
         }
-],
+        ],
