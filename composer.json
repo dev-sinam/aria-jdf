@@ -20,6 +20,6 @@
       "homepage": "http://sina.id.ir"
     }
   ],
-  "minimum-stability": "stable",
+   "minimum-stability": "dev",
   "require": {}
 }
