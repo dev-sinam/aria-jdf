@@ -8,18 +8,12 @@
       "AriaJdf\\": "src/"
     }
   },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/dev-sinam/aria-jdf"
-    }
-  ],
   "authors": [
     {
       "name": "Sina Mansoori",
-      "homepage": "http://sina.id.ir"
+      "homepage": "https://sina.id.ir"
     }
   ],
-   "minimum-stability": "dev",
+  "minimum-stability": "dev",
   "require": {}
 }
