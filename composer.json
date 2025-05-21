@@ -1,0 +1,19 @@
+{
+  "name": "dev-sinam/aria-jdf",
+  "description": "convert 'jdf library' to php oop | jalali and presian date",
+  "type": "library",
+  "license": "GPL-3.0",
+  "autoload": {
+    "psr-4": {
+      "AriaJdf\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Sina Mansoori",
+      "homepage": "http://sina.id.ir"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
+}
