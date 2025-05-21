@@ -6,10 +6,11 @@ use :
 <br/>
 "require": {
         "dev-sinam/aria-jdf": "dev-main"
-    },
-    "repositories": [
+}
+    <br/>
+"repositories": [
         {
             "type": "vcs",
             "url": "https://github.com/dev-sinam/aria-jdf"
         }
-    ],
+],
